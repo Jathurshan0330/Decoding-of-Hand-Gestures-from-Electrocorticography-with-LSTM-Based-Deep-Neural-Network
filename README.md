@@ -1,0 +1,1 @@
+# Decoding-of-Hand-Gestures-from-Electrocorticography-with-LSTM-Based-Deep-Neural-Network
